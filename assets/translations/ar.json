@@ -1,0 +1,38 @@
+{
+            
+    "Phone": "الهاتف",
+    "Username": "اسم المستخدم",
+    "Password": "كلمة المرور",
+    "Confirm Password": "تأكيد كلمة المرور",
+    "Change Password": "تغيير كلمة المرور",
+    "Code": "الرمز",
+    "Create new account": "إنشاء حساب جديد",
+    "Login": "تسجيل الدخول",
+    "Full name": "الاسم الكامل",
+    "Date of birth": "تاريخ الميلاد",
+    "Department": "القسم",
+    "Attendance": "الحضور",
+    "Working Days": "أيام العمل",
+    "Reports": "التقارير",
+    "Financial Transactions": "المعاملات المالية",
+    "Permissions": "الصلاحيات",
+    "Add Fingerprint": "إضافة بصمة إصبع",
+    "Profile Information": "معلومات الحساب",
+    "Push Notifications": "الإشعارات",
+    "Language": "اللغة",
+
+    "Please enter your full name" : "يرجى إدخال اسمك الكامل",
+    "Please enter at least three words" : "يرجى إدخال ثلاث كلمات على الأقل",
+    "Please enter your phone number" : "يرجى إدخال رقم هاتفك",
+    "Please enter your Date of birth" : "يرجى إدخال تاريخ ميلادك",
+    "Please enter your Department" : "يرجى إدخال قسمك الوظيفي",
+    "Please enter your job type" : "يرجى إدخال نوع عملك",
+    "Please enter your password" : "يرجى إدخال كلمة المرور الخاصة بك",
+    "Please confirm your password" : "يرجى تأكيد كلمة المرور",
+    "Passwords do not match" : "كلمتا المرور غير متطابقتين",
+    "REQUEST" : "طلب",
+    "The request has been sent" : "تم إرسال الطلب",
+    "The request has been sent successfully" : "تم إرسال الطلب بنجاح",
+    "OK" : "موافق"
+}
+    
